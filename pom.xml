@@ -14,7 +14,7 @@
 		 <servlets.version>4.0.1</servlets.version>
 		 <jstl.version>1.2</jstl.version>
 		 <jsp.version>2.3.1</jsp.version>
-		 <hibernate.version>5.4.14.Final</hibernate.version>
+		 <hibernate.version>5.4.24.Final</hibernate.version>
 		 	<org.slf4j-version>1.7.5</org.slf4j-version>
   </properties>
   
